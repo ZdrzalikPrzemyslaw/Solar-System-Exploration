@@ -1,6 +1,9 @@
 # Solar-System-Exploration
 A simple processing project, the user can steer a 'space' ship to traverse a custom solar system.
 
+## Usage
+Run SpaceExploration.pde using processing 3
+
 ### Controlls
 * W - Forwad
 * S - Backwards
@@ -21,3 +24,6 @@ A simple processing project, the user can steer a 'space' ship to traverse a cus
 * I - switch the direction of planets movement
 
 * R - Reset the space ship position
+
+## License
+[Apache License 2.0](https://choosealicense.com/licenses/apache-2.0/)
