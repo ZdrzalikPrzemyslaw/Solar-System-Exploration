@@ -6,7 +6,7 @@ A simple processing project, the user can steer a 'space' ship to traverse a cus
 * S - Backwards
 * A - Left
 * D - Right
-* Spacja - Up
+* Space - Up
 * Z - Down
 
 * Q / mouse move left - rotate camera left
