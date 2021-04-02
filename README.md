@@ -1,6 +1,11 @@
 # Solar-System-Exploration
 A simple processing project, the user can steer a 'space' ship to traverse a custom solar system.
 
+![image](https://user-images.githubusercontent.com/57731778/113433726-06255780-93e0-11eb-8ac8-95a964293a8e.png)
+
+![image](https://user-images.githubusercontent.com/57731778/113433761-12111980-93e0-11eb-98a2-23eee8b3b92f.png)
+
+
 ## Usage
 Run SpaceExploration.pde using processing 3
 
