@@ -1,9 +1,11 @@
 # Solar-System-Exploration
 A simple processing project, the user can steer a 'space' ship to traverse a custom solar system.
 
-![image](https://user-images.githubusercontent.com/57731778/113433726-06255780-93e0-11eb-8ac8-95a964293a8e.png)
+![image](https://user-images.githubusercontent.com/57731778/113433778-1c331800-93e0-11eb-9efe-53f837453b21.png)
 
-![image](https://user-images.githubusercontent.com/57731778/113433761-12111980-93e0-11eb-98a2-23eee8b3b92f.png)
+
+![image](https://user-images.githubusercontent.com/57731778/113433790-21906280-93e0-11eb-8d95-fa1035bdfb5f.png)
+
 
 
 ## Usage
